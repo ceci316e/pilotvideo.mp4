@@ -1,0 +1,28 @@
+/***************** Tekst format *****************/
+/***************** Menu *****************/
+header {
+  position: sticky;
+  padding: 1rem 2rem;
+  box-shadow: 0 5px 0 rgba(255, 108, 216, 0.3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+header nav ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 30px;
+  overflow: auto;
+}
+a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: pink;
+}

@@ -1,0 +1,15 @@
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  min-height: 100vh;
+  display: grid;
+  background-color: #f8f6f2;
+}
+main {
+  max-width: 1200px;
+  margin-inline: auto;
+}
+/***************** Index *****************/
+/***************** layoutdiagram *****************/
